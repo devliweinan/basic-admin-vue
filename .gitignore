@@ -6,7 +6,6 @@ dist
 
 tests/server/static
 tests/server/static/upload
-src/views_demo
 
 .local
 # local env files
